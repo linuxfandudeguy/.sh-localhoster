@@ -28,4 +28,4 @@ To clone the `.sh-localhoster` repository from GitHub, follow these steps:
 
 ---
 > [!NOTE]
-> this is used as an example repo which is open source free to use in GitHub repo examples
+> This is used as an example repo which is open source free to use in GitHub repo examples.
