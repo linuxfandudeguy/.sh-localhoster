@@ -27,5 +27,5 @@ To clone the `.sh-localhoster` repository from GitHub, follow these steps:
    Replace `your_script.sh` with the name of the shell script you want to grant execution permissions to.
 
 ---
-
-**Note:** If you encounter any issues accessing or cloning the repository, make sure you have the necessary permissions. If you need access, please grant permissions accordingly.
+> [!NOTE]
+> this is used as an example repo which is open source free to use in GitHub repo examples
